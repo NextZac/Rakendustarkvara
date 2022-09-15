@@ -1,1 +1,7 @@
 GitHub on tasuta koodimajutusplatvorm koostööks ja versioonikontrolliks. Github'i kasutavad tarkvaraarendajad või inimesed, kes soovivad enda koodi kuskil pilves hoida.
+
+Mina hakkan (Ja juba olen mitu aastat) kasutama GitHub'i kasutama enda koodimajutusplatvormina.
+Hakkan seda kasutama iga uue programeerimise projektiga.
+
+
+GitHub'i platvormi arendus algas 19. oktoobril 2007. Seda käivitati 2008. aasta aprillis Tom Preston-Werner, Chris Wanstrath ja P. J. Hyett ja Scott Chacon'i poolt, ning oli võimalik kasutada GitHub'i beta versiooni.
