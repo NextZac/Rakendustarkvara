@@ -1,1 +1,4 @@
 GitHub on tasuta koodimajutusplatvorm koostööks ja versioonikontrolliks. Github'i kasutavad tarkvaraarendajad või inimesed, kes soovivad enda koodi kuskil pilves hoida.
+
+Mina hakkan (Ja juba olen mitu aastat) kasutama GitHub'i kasutama enda koodimajutusplatvormina.
+Hakkan seda kasutama iga uue programeerimise projektiga.
